@@ -5,7 +5,7 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 ![image](https://github.com/user-attachments/assets/3f8c199e-2978-4774-8f61-60e1a0527bf7)
 
 
-## 🚀 Demo
+##  Live Link 
 
 [abhinay.tech](https://abhinay.tech)
 
@@ -25,7 +25,7 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 - [Three.js](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/abhinay-07/3d-portfolio.git
