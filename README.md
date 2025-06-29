@@ -37,7 +37,8 @@ cd 3d-portfolio
 npm install
 npm run dev
 ```
-For any queries or suggestions, you can directly contact me through the contact form in my portfolio .
+For any queries or suggestions, you can directly contact me through the contact form in my portfolio ( [abhinay.tech](https://abhinay.tech)
+) .
 
 ![image](https://github.com/user-attachments/assets/b8c49974-0337-4574-bcaa-d33d1eb4cd7b)
 
