@@ -28,7 +28,7 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/3d-portfolio.git
+git clone https://github.com/abhinay-07/3d-portfolio.git
 cd 3d-portfolio
 npm install
 npm run dev
