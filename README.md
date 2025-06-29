@@ -25,6 +25,19 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 - [Three.js](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 
+
+## 📁 Folder Structure
+project_3D/
+  ├── public/
+  ├── src/
+  │   ├── assets/
+  │   ├── components/
+  │   ├── styles.js
+  │   └── ...
+  ├── [index.html](http://_vscodecontentref_/1)
+  ├── [package.json](http://_vscodecontentref_/2)
+  └── ...
+
 ##  Installation
 
 ```bash
@@ -32,3 +45,4 @@ git clone https://github.com/abhinay-07/3d-portfolio.git
 cd 3d-portfolio
 npm install
 npm run dev
+
