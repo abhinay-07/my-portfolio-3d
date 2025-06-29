@@ -2,12 +2,12 @@
 
 A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS, Three.js, and Framer Motion.
 
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/e8d47f93-4fbe-443b-9ce6-3b7c7a6920db)
-) <!-- Replace with an actual screenshot or GIF if available -->
+![image](https://github.com/user-attachments/assets/3f8c199e-2978-4774-8f61-60e1a0527bf7)
+
 
 ## 🚀 Demo
 
-[Live Site](#) <!-- Add your deployed site link here -->
+abhinay.tech
 
 ## ✨ Features
 
