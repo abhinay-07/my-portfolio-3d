@@ -27,16 +27,7 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 
 
 ## 📁 Folder Structure
-project_3D/
-  ├── public/
-  ├── src/
-  │   ├── assets/
-  │   ├── components/
-  │   ├── styles.js
-  │   └── ...
-  ├── [index.html](http://_vscodecontentref_/1)
-  ├── [package.json](http://_vscodecontentref_/2)
-  └── ...
+![image](https://github.com/user-attachments/assets/52deb0bf-2747-4eab-b620-c5c2863dc142)
 
 ##  Installation
 
