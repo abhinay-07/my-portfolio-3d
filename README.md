@@ -38,7 +38,9 @@ npm install
 npm run dev
 ```
 For any queries or suggestions, you can directly contact me through the contact form in my portfolio .
-![image](https://github.com/user-attachments/assets/f35a0564-ddd3-4a02-9829-cc760a97ff2f)
+
+![image](https://github.com/user-attachments/assets/b8c49974-0337-4574-bcaa-d33d1eb4cd7b)
+
 
 
 
