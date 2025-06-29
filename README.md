@@ -7,7 +7,7 @@ A modern, interactive 3D portfolio website built with React, Vite, Tailwind CSS,
 
 ## 🚀 Demo
 
-abhinay.tech
+[abhinay.tech](https://abhinay.tech)
 
 ## ✨ Features
 
