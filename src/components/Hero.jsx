@@ -90,7 +90,7 @@ const Hero = () => {
           className="mt-6 flex gap-4 flex-wrap justify-center"
         >
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/17ihmFpSGSNZ_O7JsHnh-qptQzKwTw7ac/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2 rounded-lg bg-[#915EFF] text-white font-medium hover:bg-[#7d4dff] transition"
